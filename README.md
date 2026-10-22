@@ -1,6 +1,6 @@
 # 2048 — кофейная передышка
 
-**Играть: https://arctikasdiary-creator.github.io/coffee-2048/**
+**Играть: https://socdevvv.github.io/coffee-2048/**
 
 Классическая 2048 в кофейной палитре. Стрелки, WASD (и ЦФЫВ) или свайпы; рекорд хранится на устройстве.
 
@@ -9,4 +9,4 @@
 - После проигрыша есть кнопка новой игры.
 - Для отладки/тестов: `?debug=1` открывает `window.__t2048`.
 
-Сделано по приколу. Рядом — [Кофейная рулетка](https://arctikasdiary-creator.github.io/coffee-roulette/).
+Сделано по приколу. Рядом — [Кофейная рулетка](https://socdevvv.github.io/coffee-roulette/).
